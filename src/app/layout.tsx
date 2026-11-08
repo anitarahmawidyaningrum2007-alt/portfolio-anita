@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Bricolage_Grotesque } from "next/font/google";
-// @ts-expect-error Next.js processes global CSS imports at build time.
+
 import "./globals.css";
 import Header from "./components/layout/header";
 import Footer from "./components/layout/footer";
