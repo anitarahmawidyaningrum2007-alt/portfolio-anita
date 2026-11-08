@@ -1,0 +1,103 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "rahmanita2301@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:rahmanita2301@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+62 889 8094 3192",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+6288980943192"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "dribbble",
+        "icon": "/images/icon/dribble-icon.svg",
+        "link": "https://dribbble.com"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "www.linkedin.com/in/anita-rahma-widyaningrum-5600213b3"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://facebook.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "MAN 1 Kota Kediri | 2022-2025",
+        "description": "MIPA"
+      },
+      {
+        "title": "Politeknik Negeri Jember | 2015-Present",
+        "description": "Bachelor of Applied Science in Informatics Engineering"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "HTML",
+        "icon": "/images/home/education-skill/html-icon.png",
+        "rating": 5
+      },
+      {
+        "name": "CSS",
+        "icon": "/images/home/education-skill/css-icon.png",
+        "rating": 5
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/images/home/education-skill/js-icon.png",
+        "rating": 4
+      },
+      {
+        "name": "Framer",
+        "icon": "/images/home/education-skill/framer-icon.svg",
+        "rating": 3
+      },
+      {
+        "name": "PHP",
+        "icon": "/images/home/education-skill/php-icon.png",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "rahmanita2301@gmail.com",
+        "link": "mailto:rahmanita2301@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+62 889 8094 3192",
+        "link": "https://wa.me/6288980943192"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/refi-frozen-food.jpg",
+      "title": "Refi Frozen Food - Ordering App",
+      "category": "UI/UX Design • Figma",
+      "link": "https://www.figma.com/design/fQ9cPzPDuAgqsry3bZlS6v/umkm_kelompok?node-id=0-1"
+    },
+    {
+      "image": "/images/work/aplikasi-resik.jpg",
+      "title": "Aplikasi Resik",
+      "category": "UI/UX Design • Figma",
+      "link": "https://www.figma.com/design/DxEYBnAMtmouGAvNPcc3nU/DLH---RESIK?node-id=0-1"
+    },
+    {
+      "image": "/images/work/puddingku.jpg",
+      "title": "Puddingku - Food Ordering Website",
+      "category": "Web Development • PHP",
+      "link": "https://puddingku.wuaze.com/"
+    }
+  ]
+}
