@@ -165,11 +165,12 @@ const Contact = () => {
                   return (
                     <div key={index}>
                       <Link
-                        className="text-base sm:text-lg font-normal text-secondary hover:text-primary"
-                        onClick={(e) => e.preventDefault()}
-                        href={"#!"}
-                      >
-                        {value?.title}
+                         className="text-base sm:text-lg font-normal text-secondary hover:text-primary"
+                         href={value?.href}
+                         target="_blank"
+                         rel="noopener noreferrer"
+                        >
+                         {value?.title}
                       </Link>
                     </div>
                   );
